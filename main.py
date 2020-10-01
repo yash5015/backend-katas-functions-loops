@@ -9,7 +9,8 @@ __author__ = "???"
 def add(x, y):
     """Add two integers."""
     # your code here
-    return
+    c=sum(a,b)
+    return c
 
 
 def multiply(x, y):
@@ -21,18 +22,21 @@ def multiply(x, y):
 def power(x, n):
     """Raise x to power n, where n >= 0, using the functions above."""
     # your code here
-    return
+    c=pow(a,b)
+    return c
 
 
 def factorial(x):
     """Compute the factorial of x, where x > 0, using the functions above."""
     # your code here
+    
     return
 
 
 def fibonacci(n):
     """Compute the nth term of fibonacci sequence using the functions above."""
     # your code here
+    
     return
 
 
